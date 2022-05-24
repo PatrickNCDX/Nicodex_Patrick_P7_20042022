@@ -3,16 +3,18 @@
 // Dossier Backend
 
 1) Telechargez et ouvrez Node.js. 
-2) Tapez la commande suivante : `npm start`. 
-3) Puis lancez le serveur en tapant la commande : `nodemon server`.
+2) Tapez la commande suivante : `npm install`. 
+3) Tapez la commande suivante : `npm start`.
+4) Puis lancez le serveur en tapant la commande : `nodemon server`.
 
 - Le serveur doit fonctionner sur [`http://localhost:3000/`].
 
 // Dossier Frontend
 
 1) Telechargez et ouvrez Node.js. 
-2) Tapez la commande suivante : `npm start`. 
-3) Puis lancez le serveur en tapant la commande : `npm run serve`.
+2) Tapez la commande suivante : `npm install`. 
+3) Tapez la commande suivante : `npm start`.
+4) Puis lancez le serveur en tapant la commande : `npm run serve`.
 
 - Le serveur doit fonctionner sur [`http://localhost:8080/`].
 
