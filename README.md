@@ -28,4 +28,4 @@
 // Base de Données
 
 1) Créer la base de données "groupomania" sur mysql.
-2) Mettre à jour les informations dans le `.env`.
+2) Mettre à jour les informations dans le `.env`et retirer le .soutenance.
