@@ -23,3 +23,9 @@
 1) Au lancement du serveur backend, la base de données sera créée automatiquement.
 2) Le compte administrateur sera crée en même temps que le premier utilisateur.
 3) Ces informations de compte sont définies dans le fichier `.env`.
+
+
+// Base de Données
+
+1) Créer la base de données "groupomania" sur mysql.
+2) Mettre les informations dans le `.env`.
